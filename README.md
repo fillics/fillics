@@ -1,4 +1,5 @@
 ### Hi there, I am Filippo 👋
+Ideas are worthless. Execution plus idea is everything.
 
 <!--
 **fillics/fillics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
