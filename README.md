@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filippo Caliò</h1>
-<h3 align="center">A passionate Data Science Student from Italy</h3>
+<h3 align="center">A passionate Data Science student from Italy</h3>
 <br />
 
 
