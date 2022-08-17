@@ -16,5 +16,4 @@
 
 ## Social
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=”icon | LinkedIn” width=”21px”/></a>
-
+![https://www.linkedin.com/in/filippo-calio/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
