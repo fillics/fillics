@@ -1,18 +1,5 @@
 ## Hi there, I am Filippo Caliò👋
-
-<!--
-**fillics/fillics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Ideas are worthless. Execution plus idea is everything.
 
 🎓 MSc student in Data Science, enrolled in EIT Digital Master School Double Degree Program:
 - first year: Politecnico di Milano (Milan, Italy)
@@ -27,5 +14,7 @@
 - 🚴🏻 bike touring<br />
 <br />
 
+## Social
 
->Ideas are worthless. Execution plus idea is everything.
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=”icon | LinkedIn” width=”21px”/></a>
+
