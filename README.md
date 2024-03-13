@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filippo Caliò</h1>
-<h3 align="center">A passionate Data Science student from Italy</h3>
+<h3 align="center">A passionate Data Scientist from Italy</h3>
 <br />
 
 
-🎓 MSc student in Data Science, enrolled in EIT Digital Master School Double Degree Program:
+🎓 MSc student in Data Science (EIT Digital Master School Double Degree Program):
 - first year: Politecnico di Milano (Milan, Italy)
 - second year (now): KTH (Stockholm, Sweden)
 
